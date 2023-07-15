@@ -3,6 +3,8 @@
 ### By **Vijay Varadarajan** (22BCB0134)
 ### Member of IET-VIT
 
+**Streamlit app link**: [Heart failure risk predictor](https://heart-failure-risk-predictor.streamlit.app/)
+
 **Google Colab link**: [Heart-failure-predictor-Colab](https://colab.research.google.com/drive/1IEDbEVnk3WdUmneSHmOp4wH-digWnnY1).<br>
 (Download the dataset and upload it to the above google colab before running the program)<br><br>
 **Github link**: [Heart-failure-predictor-Github](https://github.com/vijay-varadarajan/Heart-failure-predictor).
